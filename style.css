@@ -17,4 +17,25 @@ body{
     border: 1px solid #9c9c9c;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.hotel-name{
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hotel-description{
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 300;
+
+}
+
+.hotel-telephone{
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
 }
