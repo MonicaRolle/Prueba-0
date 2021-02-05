@@ -31,7 +31,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.hotel.description-container{
+.hotel-description-container{
     padding-top: 10px;
     max-width: 300px;
 }
